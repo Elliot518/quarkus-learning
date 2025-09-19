@@ -9,3 +9,6 @@
 
 ### [Get Started](Fundamental/get_started.md)
 
+### [Quarkus IDE integration](Fundamental/quarkus_ide_integration.md)
+
+
